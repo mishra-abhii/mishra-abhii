@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <p align="center">
   <code>
     <a href="https://www.linkedin.com/in/abhishek-mishra-173314214" title="LinkedIn Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-    <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Twitter Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a></code>
+    <code><a href="https://www.instagram.com/abhimishra2775" title="Instagram Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
+  <code><a href="https://twitter.com/Abhii_twt?t=FdlFUgzdoEVSCGHNCMVSRQ&s=09" title="Twitter Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a></code>
 </p>
 <br><br><br>
 
