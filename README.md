@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mishra-abhii.mishra-abhii">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mishra-abhii.mishra-abhii"><br><br>
 
 
   <a href="https://git.io/typing-svg">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abhishek...&center=true&size=30"></h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abhishek...&center=true&size=35"></h1>
   </a>
 
 <h2 align="center">⚡ Connect with me ⚡</h2>
