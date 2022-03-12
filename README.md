@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mishra-abhii.mishra-abhii">
 
 
