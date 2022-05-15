@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   <a href="https://git.io/typing-svg">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abhishek...&center=true&size=35"></h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Abhishek...&center=true&size=30"></h1>
   </a>
 
 <h2 align="center">⚡ Connect with me ⚡</h2>
