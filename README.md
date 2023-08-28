@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <h2 align="center">⚡ Connect with me ⚡</h2>
 <br>
 <p align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/abhishek-mishra-173314214" title="LinkedIn Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
-    <code><a href="https://www.instagram.com/abhimishra2775" title="Instagram Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/abhishek-mishra-173314214" title="LinkedIn Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/abhimishra2775" title="Instagram Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a></code>
   <code><a href="https://twitter.com/Abhii_twt?t=FdlFUgzdoEVSCGHNCMVSRQ&s=09" title="Twitter Profile"><img width="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a></code>
 </p>
 <br><br><br>
@@ -68,19 +67,19 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-abhii&theme=react&border=61dafb&hide_border=true" alt="mishra-abhii" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-abhii&theme=react&border=61dafb&hide_border=true" alt="mishra-abhii"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mishra-abhii&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mishra-abhii&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+<!--   <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=390 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishra-abhii&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
       <img width=390 align="left" src="https://activity-graph.herokuapp.com/graph?username=mishra-abhii&theme=react-dark&bg_color=20232a&hide_border=true"/>
-  </dic>
+  </div> -->
 </p>
 <hr>
 
