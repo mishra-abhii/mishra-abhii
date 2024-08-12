@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 <br><br><br>
 
 
-  - 🌱 I’m currently learning **Android Development**
+  - 🌱 I’m currently working on my **Backend Development Skills**
   <br><br>
-  - 🔬 I'm currently studying for a bachelor's degree in Information Technology Department
+  - 🔬 Completed my bachelor's degree in Information Technology Department
   <br><br>
-  - 💻 I'm very curious about exploring and learning new things, which helps in improving my skills
+  - 💻 I'm very curious about exploring and learning new things, to enhance my skillset
   <br><br>
   - 📫 How to reach me: <a href="mailto: abhimishra2775@gmail.com">abhimishra2775@gmail.com</a><br><br><br>
 
