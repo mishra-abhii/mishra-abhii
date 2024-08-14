@@ -47,10 +47,15 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img title="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img title="Spring-Boot" height="40" src="https://cdn.hackr.io/uploads/topics_svg/java-spring-framework.svg"></code>
   <code><img title="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
   <code><img title="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></code>
-  <code><img title="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img title="Jenkins" height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></code>
+  <code><img title="Apache Spark" height="40" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*I7bOyAqdM489ct9eDtf89A.png"></code>
+  <code><img title="Linux" height="40" src="https://media.licdn.com/dms/image/v2/D4D12AQFxqbN-l4ihDQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1682272014345?e=2147483647&v=beta&t=f-TtwKuFsiymSoS0nYdyEIL_HvwyajDQbBUQ5qZLFi8"></code>
+<!--   <code><img title="Jira" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+  <code><img title="Confluence" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code> -->
   <code><img title="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
   <code><img title="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
 <!--   <code><img title="Visual Studio Code" height="40" src="https://cdn.thenewstack.io/media/2021/10/4f0ac3e0-visual_studio_code.png"></code> -->
@@ -67,11 +72,11 @@ Here are some ideas to get you started:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-abhii&theme=react&border=61dafb&hide_border=true" alt="mishra-abhii"/>
+      <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mishra-abhii&theme=react&border=61dafb&hide_border=true" alt="mishra-abhii"/>
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mishra-abhii&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-    </a>
+    </a> -->
   </div>
 <!--   <br><br><br><br><br><br><br><br>
   <div align=center>
